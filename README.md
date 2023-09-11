@@ -1,5 +1,5 @@
 # wwd
-Watch a process (with dread)
+Watch (a process) with dread
 
 Run with the PID you would like to watch
 
